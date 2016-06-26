@@ -15,3 +15,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	When we want to experiment for example a new feature in our program and not make it part of the master branch until is tested enough we can use a branch for it. 
+
+How do the diagrams help you visualize the branch structure?
+
+	Let me see clearly commits parents. They also help to identify commits that would be lost, in other words they point to wher a new branch is needed in order to keep changes made.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result would be having both programs features in one module.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Doing it manually is work that have to be done, meanwhile doing it automatically can make wrong desitions since the system doesn't know better than programmers.	 
