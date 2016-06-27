@@ -1,17 +1,33 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all
+your work local?
 
 	That is when soing team work or for saving projects on the cloud.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-	When you pull you make new commits in your project. You want to do it when you think is good time for it. If it does it automatically there would be a lot of changes peridiocally.
+	When you pull you make new commits in your project. You want to do it
+	when you think is good time for it. If it does it automatically there
+	would be a lot of changes peridiocally.
 	
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-	Forks are copies of repositories made directly on GitHub. They are independent fron the original repository, so changes are made directly on the fork without affecting the original copy.
-	Clones are copies made locally from GitHub repositories or from other local repositories.
-	Branches are labels that are made on existing repositories. They could be made locally or in the cloud. 
+	Forks are copies of repositories made directly on GitHub. They are
+	independent fron the original repository, so changes are made directly
+	on the fork without affecting the original copy.
+	Clones are copies made locally from GitHub repositories or from other
+	local repositories.
+	Branches are labels that are made on existing repositories. They could
+	be made locally or in the cloud. 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-	The benefits are: I can keep working on my branch offline and when I decided merge it with the remote.
+	The benefits are: I can keep working on my branch offline and when I
+	decided merge it with the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without Git/GitHub collaborations could be done by email or by putting
+	the code in a cloud drive. But this way eigther you would have to send
+	the whole code or pieces oof it having to make some big explanations
+	about where code has to be introduced for the merge. It is also prompt
+	to confusions and/or errors.
